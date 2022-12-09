@@ -27,7 +27,7 @@
   "dependencies": {
     "async": "^3.0.0",
     "config": "^2.0.1",
-    "express": "^4.16.3",
+    "express": "^4.18.2",
     "intelligo": "^1.0.0",
     "request": "^2.87.0",
     "path": "^0.12.7"
